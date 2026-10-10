@@ -1,18 +1,24 @@
 # Aplicación Web Vue.js - Trabajo Libre 06
 
 ##  Descripción y Propósito
-Aplicación web funcional desarrollada utilizando el framework **Vue.js 3** y **Vite**, aplicando los conceptos fundamentales de desarrollo web moderno: reactividad, componentes modularizados, manejo de eventos y gestión de estado.
+Esta aplicación es un **Gestor de Tareas Interactivo (To-Do List)** funcional desarrollado con **Vue.js 3** y **Vite**. Permite administrar tareas en tiempo real mediante una interfaz reactiva, moderna y adaptable.
 
-### Conceptos de Vue aplicados:
-- **Reactividad:** Manejo dinámico del estado mediante `ref` y `computed`.
-- **Componentes:** Arquitectura modular basada en componentes reutilizables en `src/components/`.
-- **Manejo de Eventos:** Interacción activa con el usuario mediante directivas `@click` y `@submit`.
-- **Manejo de Estado:** Gestión de estado global de la aplicación utilizando **Pinia**.
+---
+
+##  Conceptos de Vue.js Aplicados
+
+- **Reactividad (`ref` & `v-model`):** Sincronización bidireccional entre la entrada de texto del usuario y el estado interno.
+- **Propiedades Computadas (`computed`):** Cálculo automático e instatáneo del número de tareas completadas frente al total.
+- **Manejo de Eventos (`v-on` / `@`):**
+  - `@click` y `@keyup.enter` para la creación de nuevas tareas.
+  - `@click` para alternar el estado de completado/pendiente de cada tarea.
+  - `@click` en el botón de eliminación para modificar el arreglo de datos.
+- **Gestión de Componentes y Estado:** Estructura basada en Composition API (`<script setup>`) y Pinia/Router configurados en el proyecto.
 
 ---
 
 ##  Demostración en Vivo
-🔗 **URL de Producción:** https://trabajo-libre-06-vuejs-bm0adhabz-leos-enterprises.vercel.app
+ **URL de Producción:** https://trabajo-libre-06-vuejs-bm0adhabz-leos-enterprises.vercel.app
 
 ---
 
