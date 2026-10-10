@@ -1,44 +1,26 @@
-# .
+# Aplicación Web Vue.js - Trabajo Libre 06
 
-This template should help get you started developing with Vue 3 in Vite.
+## 📝 Descripción y Propósito
+Aplicación web funcional desarrollada utilizando el framework **Vue.js 3** y **Vite**, aplicando los conceptos fundamentales de desarrollo web moderno: reactividad, componentes modularizados, manejo de eventos y gestión de estado.
 
-## Recommended IDE Setup
+### Conceptos de Vue aplicados:
+- **Reactividad:** Manejo dinámico del estado mediante `ref` y `computed`.
+- **Componentes:** Arquitectura modular basada en componentes reutilizables en `src/components/`.
+- **Manejo de Eventos:** Interacción activa con el usuario mediante directivas `@click` y `@submit`.
+- **Manejo de Estado:** Gestión de estado global de la aplicación utilizando **Pinia**.
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+---
 
-## Recommended Browser Setup
+## 🚀 Demostración en Vivo
+🔗 **URL de Producción:** https://trabajo-libre-06-vuejs-bm0adhabz-leos-enterprises.vercel.app
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Customize configuration
+## 💻 Instrucciones para Ejecución Local
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+1. **Clonar el repositorio:**
+   ```bash
+   git clone [https://github.com/Leos060304/Trabajo-libre-06-Vuejs.git](https://github.com/Leos060304/Trabajo-libre-06-Vuejs.git)
+   cd Trabajo-libre-06-Vuejs
