@@ -1,6 +1,6 @@
 # Aplicación Web Vue.js - Trabajo Libre 06
 
-## 📝 Descripción y Propósito
+##  Descripción y Propósito
 Aplicación web funcional desarrollada utilizando el framework **Vue.js 3** y **Vite**, aplicando los conceptos fundamentales de desarrollo web moderno: reactividad, componentes modularizados, manejo de eventos y gestión de estado.
 
 ### Conceptos de Vue aplicados:
@@ -11,12 +11,12 @@ Aplicación web funcional desarrollada utilizando el framework **Vue.js 3** y **
 
 ---
 
-## 🚀 Demostración en Vivo
+##  Demostración en Vivo
 🔗 **URL de Producción:** https://trabajo-libre-06-vuejs-bm0adhabz-leos-enterprises.vercel.app
 
 ---
 
-## 💻 Instrucciones para Ejecución Local
+##  Instrucciones para Ejecución Local
 
 Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
